@@ -1,0 +1,3 @@
+log1 : cardboard
+log2 : glass
+log3 : clothing
