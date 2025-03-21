@@ -1,0 +1,12 @@
+This repository contains scripts to process and visualize LIDAR sensor data stored in JSON files. The main functionality includes:
+
+* Data Filtering:
+Remove unwanted points (e.g., wall reflections and points beyond a certain distance threshold) using custom filtering functions.
+
+*Visualization:
+Plot the filtered data using matplotlib for easy analysis.
+
+
+*...
+
+project is designed to help with noise analysis and debugging of LIDAR sensor data.
